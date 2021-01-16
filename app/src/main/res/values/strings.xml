@@ -2,4 +2,6 @@
     <string name="app_name">RestfulTutorialAndroid</string>
     <string name="base_url">https://api.themoviedb.org/3/</string>
     <string name="api_key">904014f69cce7fbc55530d98695e1e40</string>
+    <string name="search">SEARCH</string>
+    <string name="enter_keyword_to_search">Enter keyword to search</string>
 </resources>
